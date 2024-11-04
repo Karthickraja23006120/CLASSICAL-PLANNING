@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-### Name:Alan Samuel Vedanayagam<br>
-### Register Number: 212223040012<br>
+### Name:Karthick Raja K<br>
+### Register Number: 212223240066<br>
 
 # AIM:
 To solve Implementation of Classical Planning Algorithm using python.
